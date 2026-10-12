@@ -191,6 +191,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Template10](https://github.com/Windows-XAML/Template10) - Windows 10 templates with design patterns.
 * [Nucleus](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 * [JHipster.NET](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor.
+* [Websiteplayground](https://github.com/Thorium/Websiteplayground) - TypeScript frontend, .NET backend
 
 ## Artificial Intelligence
 * [AIMLBot (Program#)](http://aimlbot.sourceforge.net/) - A small, fast, standards-compliant yet easily customizable implementation of an AIML (Artificial Intelligence Markup Language) based chatter bot in C#.
@@ -220,6 +221,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [IdentityServer](https://github.com/IdentityServer) - Extensible OAuth2 and OpenID Connect provider framework.
 * [OAuth](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 * [Stuntman](https://rimdev.io/stuntman/) - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
+* [KeyVaultSigning](https://github.com/CompositionalIT/KeyVaultSigning) - Digital signatures via Azure KeyVault signing
 
 ## Blazor
 
@@ -270,6 +272,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Nake](https://github.com/yevhen/Nake) - Magic script-based C# task runner
 * [Nuke](https://github.com/nuke-build/nuke) - Cross-platform build automation system
 * [FlubuCore](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+* [Farmer](https://compositionalit.github.io/farmer/) - Making repeatable Azure deployments easy via Infrastructure-as-code 
+* [FsCDK](https://totallymoney.github.io/FsCDK/) - Infrastructure-as-code tool for AWS
 
 ## Business Intelligence
 
@@ -349,11 +353,14 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Codinion](https://www.codinion.com/) - Enhanced syntax highlighting for C# and some other "Visual" features. **[$]**
 * [NsDepCop](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 * [WebBen](https://github.com/omerfarukz/WebBen) - Is a tool for benchmarking your Hypertext Transfer Protocol (HTTP) server.
+* [Codinion](https://www.codinion.com/) - Enhanced syntax highlighting for C# and some other "Visual" features. **[$]**
+* [csharp-refactor](https://www.nuget.org/packages/csharp-refactor) - Dotnet tool to cleanup (agent-generated or old) C# code
 
 ## Code Snippets
 
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C#, F# and VB code in the browser. The .Net equivalent of JSFiddle.
 * [Sharplab](https://sharplab.io/) - Run C# code using different branches and versions of Roslyn, see the IL that was produced and examine the JIT's output.
+* [FsSnip](https://fssnip.net/) - F# code snippets
 
 ## Compilers, Transpilers and Languages
 
@@ -373,6 +380,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [VisualFSharp](https://github.com/dotnet/fsharp) - The Visual F# compiler and tools
 * [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler
 * [LinqOptimizer](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
+* [Linq.Expression.Optimizer](https://thorium.github.io/Linq.Expression.Optimizer/) - An automatic query optimizer for SQL-translated queries
 * [Roslyn-linq-rewrite](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 * [Iron python](https://github.com/IronLanguages/ironpython2) - A python 2 implementation that is integrated with the dot net framework.
 * [Amplifier.NET](https://github.com/tech-quantum/Amplifier.NET) - Write and compile your own kernel function using C# and Amplifier will take care of running it on your favorite hardware. Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code.
@@ -384,6 +392,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [SharpZipLib](https://icsharpcode.github.io/SharpZipLib/) - a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform
 * [Snappy for Windows](https://snappy.machinezoo.com/) - Snappy compression library for .NET baked on P/Invoke
 * [Snappy.Sharp](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
+* [Owin.Compression](https://github.com/thorium/Owin.Compression) - Compression (Deflate / GZip) module for Microsoft OWIN filesystem pipeline. Works with Selfhost and also on AspNetCore.
 
 ## Continuous Integration
 * [TeamCity](https://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box **[$]**
@@ -452,6 +461,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [DbUp](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
 * [Octo Pack](https://github.com/OctopusDeploy/OctoPack) - Used to build NuGet packages of your application for deployment using tools such as Octopus Deploy
 * [yuniql](https://github.com/rdagumampan/yuniql) - Free and open source schema versioning and migration tool made with .NET Core. Run migrations with plain SQL, arrange versions in ordinary folders and seed your data from CSV via stand-alone CLI (no CLR needed), Azure Pipelines, Docker or ASP.NET Core code. https://yuniql.io
+
 ## DirectX
 
 * [Vortice.Windows](https://github.com/amerkoleci/Vortice.Windows) - Cross platform .NET standard libraries for DirectX, WIC, Direct2D1, XInput, XAudio and X3DAudio
@@ -488,11 +498,15 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [ServiceStack.Stripe](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs
 * [SmartStoreNET](https://github.com/smartstore/SmartStoreNET) - Free ASP.NET MVC e-commerce Shopping Cart Solution
 * [Stripe.Net](https://github.com/stripe/stripe-dotnet) - Stripe.net is a full service .NET API for https://stripe.com/
+* [FunStripe](https://github.com/simontreanor/FunStripe) - Alternative Stripe payments client
 * [Virto Commerce](https://github.com/VirtoCommerce/vc-platform) - Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, AngularJS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. https://virtocommerce.com
 * [SimplCommerce](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
 * [GrandNode](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB. 
 * [Square](https://github.com/square/connect-csharp-sdk) - The official SDK for Square payments and other Square APIs.
 * [Adyen](https://github.com/Adyen/adyen-dotnet-api-library) - The official Adyen Payment API Library for .NET
+* [FSharp.Finance.Personal](https://github.com/simontreanor/FSharp.Finance.Personal) - Interest calculations for personal finance
+* [CarmelNet](https://github.com/thorium/CarmelNet) - Unofficial .NET client for Carmel integration, creating online payments automation in US
+* [Clearbank.Net](https://github.com/thorium/Clearbank.Net) - Unofficial .NET client for ClearBank integration, creating online payments automation in EU and UK
 
 ## Environment Management
 
@@ -527,6 +541,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [JFlepp.Maybe](https://github.com/jflepp/JFlepp.Maybe) - A Maybe type for C#, aimed as an idiomatic port of the option type in F# to C#
 * [Optuple](https://github.com/atifaziz/Optuple) - .NET Standard Library for giving `(bool, T)` Option-like semantics in a non-obtrusive way; this is, there is no new option type dependency for a library or its users.
 * [MoreLinq](https://github.com/MoreLinq/MoreLinq) - Provides extra methods to LINQ to Objects.
+* [Basware LINQ Tutorial](https://github.com/basware-public/LINQ-Tutorial) - Functional programming tutorial in a form of C# LINQ
 
 ## Game
 
@@ -542,6 +557,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Devtodev](https://github.com/devtodev-analytics/winstore-sdk) - A full-cycle analytics solution for game developers.
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
 * [osu!framework](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
+* [Nu](https://github.com/bryanedds/Nu) - Nu Game Engine
+* [Mibo](https://angelmunoz.github.io/Mibo/) - A Functional Game Framework
 
 ## GIS
 
@@ -566,6 +583,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 * [RepoZ](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
 * [Git Credential Manager for Windows](https://github.com/Microsoft/Git-Credential-Manager-for-Windows) - Helps solving issues of credentials, made by Microsoft
+* [WinMerge](https://github.com/WinMerge/winmerge) - Differencing and merging tool for Windows
 
 ## Graphics
 
@@ -648,6 +666,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [RestLess](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 * [HttpClientGoodies](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
 * [WebApiClient](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
+
 ## IDE
 
 * [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, Avalonia and Typescript
@@ -661,6 +680,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Rider](https://www.jetbrains.com/rider/) - A cross-platform C# IDE based on the IntelliJ platform and ReSharper
 * [RoslynPad](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
 * [Consulo](https://consulo.io) - A cross-platform IDE with C# & Java support, fork of IntelliJ IDEA Community Edition
+* [NppTreeSitter](https://github.com/Thorium/NppTreeSitter) - Notepad++ intellisense for C# and many other languages
 
 ## Image Processing
 
@@ -774,7 +794,8 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [SciSharp STACK](https://scisharp.github.io/SciSharp/) - A rich machine learning ecosystem for .NET created by porting the most popular Python libraries to C#.
 * [Synapses](https://github.com/mrdimosthenis/Synapses) - An in-memory neural network library written in F#.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native .NET (C#, F# or Visual Basic) code with zero dependencies.
-
+* [Fuuga](https://bitbucket.org/Thorium/) - LLM model generator for .NET
+ 
 ## Markdown Processors
 * [MarkdownSharp](https://code.google.com/archive/p/markdownsharp) - Open source C# implementation of Markdown processor, as featured on Stack Overflow.
 * [F# Formatting](https://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects.  The library contains extensible Markdown parser as a core component.
@@ -1072,6 +1093,7 @@ metadata in media files, including video, audio, and photo formats
 * [ProtoBuf](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
 * [FlatSharp](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
 * [F# Data](https://fsprojects.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
+* [F# Data STJ](https://github.com/thorium/FSharp.Data.JsonProvider.Serializer) - Replace FSharp.Data.JsonProvider default serialization with fast System.Text.Json
 * [Bond](https://github.com/Microsoft/bond) - cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data.
 * [Hyperion](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
 * [FileHelpers](https://github.com/MarcosMeli/FileHelpers) - free and easy to use .NET library to import or export data from fixed length or delimited records in files, strings or streams.
@@ -1212,6 +1234,8 @@ metadata in media files, including video, audio, and photo formats
 * [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn
 * [Unchase.Odata.Connectedservice](https://github.com/unchase/Unchase.Odata.Connectedservice) - A Visual Studio Connected Service for generating API client code in C# or VB for OData web service.
 * [Unchase.OpenAPI.Connectedservice](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - A Visual Studio 2017/2019 extension to generate C# (TypeScript) HttpClient (or C# Controllers) code for OpenAPI web service with [NSwag](https://github.com/RicoSuter/NSwag).
+* [CSharp.Refactor](https://marketplace.visualstudio.com/items?itemName=TuomasHietanen.cSharp-refactor) - Visual Studio plugin to clean-up (agent-generated or old) C# code
+* [CSharp.Refactor](https://marketplace.visualstudio.com/items?itemName=TuomasHietanen.csharp-refactor-vscode) - VSCode plugin to clean-up (agent-generated or old) C# code
 
 ## Web Browsers
 
