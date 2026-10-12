@@ -794,7 +794,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [SciSharp STACK](https://scisharp.github.io/SciSharp/) - A rich machine learning ecosystem for .NET created by porting the most popular Python libraries to C#.
 * [Synapses](https://github.com/mrdimosthenis/Synapses) - An in-memory neural network library written in F#.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native .NET (C#, F# or Visual Basic) code with zero dependencies.
-* [Fuuga](https://bitbucket.org/Thorium/) - LLM model generator for .NET
+* [Fuuga](https://bitbucket.org/thorium/fuuga) - LLM model generator for .NET
  
 ## Markdown Processors
 * [MarkdownSharp](https://code.google.com/archive/p/markdownsharp) - Open source C# implementation of Markdown processor, as featured on Stack Overflow.
